@@ -1,0 +1,8 @@
+{
+	"name": "location-origin-pony",
+	"description": "Ponyfill for window.location.origin",
+	"version": "0.0.1",
+	"repository": "srcagency/location-origin-pony",
+	"license": "MIT",
+	"author": "Thomas Jensen <thomas@src.agency> (http://src.agency)"
+}
